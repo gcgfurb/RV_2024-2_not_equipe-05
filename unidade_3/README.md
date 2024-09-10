@@ -1,8 +1,8 @@
 # Unidade 3
 
-Local para postar a atividade da unidade 3.  
-
 ## Quebra Cabeça 3D em VRi
+
+Usar como base o TCC do [tcc_GuilhermeFibrantz](./tcc_GuilhermeFibrantz/) para usar o controle do HMD.  
 
 - usar o controle do HMD  
 - função de imã  
